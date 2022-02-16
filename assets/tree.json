@@ -1,0 +1,82 @@
+
+
+ {
+  "name": "Heba Saleh",
+  "value": 100,
+  "title": "CEO",
+  "img": "https://cdn.elwatannews.com/watan/840x473/18736516631595324861.jpg",
+
+  "children": [
+    {
+      "name": "Ahmed Salah",
+      "value": 100,
+      "title": "ITI Branch Manger Qena&Sohag",
+      "img": "https://scontent.fcai20-4.fna.fbcdn.net/v/t31.18172-8/27023695_10160065160180637_381991382639304636_o.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=H5J09m48zJUAX_bdh4v&_nc_ht=scontent.fcai20-4.fna&oh=00_AT-TNz1Gdg5rkaFNcvttAm3yAPWMFHWlEe1gkFfGSzKs-Q&oe=622ACC00",
+
+      "children": [
+        {
+          "name": "Mahmoud Abdelkhalek",
+          "value": 100      
+        },
+        {
+          "name": "Hany Saad",
+          "value": 300,
+          "title": "Training Manger Sohag",
+          "img": "https://scontent.fcai20-4.fna.fbcdn.net/v/t1.6435-9/29313405_10155393999841616_3190073799324205056_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BHB3mOzn354AX-wGJF5&_nc_ht=scontent.fcai20-4.fna&oh=00_AT-kHpZvSEhFup4300XIqa6Ij45TlPlgZPEp6CDrY2KgtA&oe=6229E29E",
+
+          "children": [
+            {
+              "name": "Mohamed Salah",
+              "value": 100,
+              "title": "Instructor",
+              "img": "https://scontent.fcai20-4.fna.fbcdn.net/v/t1.6435-9/175586111_10220265296047467_7521687523064476170_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_ohc=OlGmlEKhjwUAX90MVKi&_nc_ht=scontent.fcai20-4.fna&oh=00_AT_Swi-dS1FQuYXewL_SU2-hKVoLz2PPMyUFoar2FSYevw&oe=622A0D82"
+            },
+            {
+              "name": "Abdelrheem youssef",
+              "value": 300     
+            }
+          ]
+        },
+        {
+          "name": "Alhassan Mokhtar",
+          "value": 200
+         
+        }
+      ]
+    },
+    {
+      "name": "Eslam Shaheer",
+      "value": 200,
+      "title": "Developer",
+      "img": "https://scontent-amt2-1.xx.fbcdn.net/v/t39.30808-6/271887114_4857321624354597_5695246826290828068_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=2oYCtFCZ6u0AX9QyOx_&_nc_ht=scontent-amt2-1.xx&oh=00_AT_x_sypB7g609Qpk6_Bw2CMUuLEM_T8JldHMP1An5UQ7g&oe=6212A038",
+
+      "children": [
+        {
+          "name": "Ismail Mohamed",
+         "value": 100
+        },
+        {
+          "name": "Sayed Abdelrasoul",
+          "value": 300
+         
+        },
+        {
+          "name": "Mustafa Elrawy",
+          "value": 200,
+          "children": [
+            {
+              "name": "Yassin Mohamed",
+              "value": 100
+             
+            },
+            {
+              "name": "Abobakr hanafy",
+              "value": 300
+              
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
